@@ -1,0 +1,26 @@
+body {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background-color: lightsteelblue;
+}
+
+.jumbotron {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 16px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: turquoise;
+}
+
+.carousel {
+    margin: 16px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: navy;
+}
+
+.card {
+    margin: 16px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+}
