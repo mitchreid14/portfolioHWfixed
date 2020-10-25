@@ -5,3 +5,4 @@
 * Added form to contact page
 * Added card containing a photo of me and my bio to about-me page
 * created style.css file
+* added styling to body and about-me page
