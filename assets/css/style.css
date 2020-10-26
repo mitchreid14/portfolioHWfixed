@@ -18,9 +18,37 @@ body {
     border-color: navy;
 }
 
+.form-group1 {
+    margin: 16px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: red;
+}
+
+.form-control1 {
+    margin: 6px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: blue;
+}
+
+.form-group2 {
+    margin: 16px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: red;
+}
+
+.form-control2 {
+    margin: 6px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: blue;
+}
+
 .card {
     margin: 16px;
     border-style: solid;
     border-width: 5px;
-    border-color: red;
+    border-color: darkcyan;
 }
