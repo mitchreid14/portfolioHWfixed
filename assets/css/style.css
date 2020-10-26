@@ -6,55 +6,61 @@ body {
 .jumbotron {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 16px;
-    border-style: solid;
-    border-width: 5px;
+    border-style: groove;
+    border-width: 16px;
     border-color: turquoise;
 }
 
 .carousel {
     margin: 16px;
-    border-style: solid;
-    border-width: 5px;
+    border-style: groove;
+    border-width: 16px;
     border-color: navy;
 }
 
 .form-group1 {
     margin: 16px;
-    border-style: solid;
-    border-width: 4px;
+    border-style: groove;
+    border-width: 8px;
     border-color: red;
+    width: 675px;
+    padding: 8px;
 }
 
 .form-control1 {
     margin: 6px;
-    border-style: solid;
+    border-style: groove;
     border-width: 4px;
     border-color: blue;
+    width: 500px;
+   
 }
 
 .form-group2 {
     margin: 16px;
-    border-style: solid;
-    border-width: 4px;
+    border-style: groove;
+    border-width: 8px;
     border-color: red;
+    width: 700px;
 }
 
 .form-control2 {
     margin: 6px;
-    border-style: solid;
+    border-style: groove;
     border-width: 4px;
     border-color: blue;
+    width: 500px;
 }
 
 .card {
     margin: 16px;
     padding: 5px;
-    border-style: solid;
+    border-style: groove;
     border-width: 20px;
     border-color: darkcyan;
     position: relative;
     top: 50px;
-    right: -750px;  
+    right: -750px;
 }
 
 footer {
@@ -62,5 +68,31 @@ footer {
     font-style: italic;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: darkgray;
-    flo
+}
+
+.emailadd {
+    margin: 4px;
+    border-style: groove;
+    border-width: 4px;
+    border-color: cyan;
+    background-color: darkgrey;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.comment {
+    margin: 4px;
+    border-style: groove;
+    border-width: 4px;
+    border-color: cyan;
+    background-color: darkgrey;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    top: -40px;
+    right: -7px;
+}
+
+.submitbutton1 {
+    color: darkorange;
+    position: relative;
+    right: -40px;
 }
