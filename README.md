@@ -9,5 +9,5 @@
 * Added styling to contact page
 * Used positioning to make things look somewhat clean
 * Styled the pages via borders and colors
+* Realized positioning is pretty broken looking on the phone so i used margin: auto
 
-* --Now i'm lost after looking at the site on my phone; pretty broken
