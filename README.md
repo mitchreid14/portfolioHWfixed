@@ -7,4 +7,5 @@
 * created style.css file
 * added styling to body and about-me page
 * Added styling to contact page
-* Attempted floats but can't figure it out
+* Used positioning to make things look somewhat clean
+* Styled the pages via borders and colors
