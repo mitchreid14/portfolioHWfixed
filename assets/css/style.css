@@ -1,6 +1,7 @@
 body {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-    background-color: lightsteelblue;
+    background-color: rgb(37, 68, 109);
+    background-image: ;
 }
 
 .jumbotron {
@@ -19,48 +20,44 @@ body {
 }
 
 .form-group1 {
-    margin: 16px;
+    margin: 10px;
     border-style: groove;
     border-width: 8px;
     border-color: red;
-    width: 675px;
-    padding: 8px;
 }
 
 .form-control1 {
-    margin: 6px;
+    margin: 10px;
     border-style: groove;
     border-width: 4px;
     border-color: blue;
-    width: 500px;
-   
 }
 
 .form-group2 {
-    margin: 16px;
+    margin: 10px;
     border-style: groove;
     border-width: 8px;
     border-color: red;
-    width: 700px;
+
 }
 
 .form-control2 {
-    margin: 6px;
+    margin: 10px;
     border-style: groove;
     border-width: 4px;
     border-color: blue;
-    width: 500px;
+
 }
 
 .card {
-    margin: 16px;
+    margin: auto;
+    margin-top: 16px;
     padding: 5px;
     border-style: groove;
     border-width: 20px;
     border-color: darkcyan;
-    position: relative;
-    top: 50px;
-    right: -750px;
+    float: left -100px;
+    clear: both;
 }
 
 footer {
