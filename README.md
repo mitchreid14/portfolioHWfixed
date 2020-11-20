@@ -12,4 +12,4 @@
 * Added popover buttons for phone number and email address on contact page
 * Also added button with link to my Linked-In page
 * Added screenshots of past projects
-
+* Can't figure out how to get it looking cleaner on mobile
