@@ -5,10 +5,16 @@ body {
 
 .jumbotron {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin: 16px;
+    margin: auto;
+    margin-top: 16px;
     border-style: groove;
-    border-width: 16px;
-    border-color: turquoise;
+    border-width: 20px;
+    border-color: darkcyan;
+    border-radius: 8px;
+    align-content: center;
+    color: aliceblue;
+    clear: both;
+    background-color: darkslategrey;
 }
 
 .carousel {
@@ -16,47 +22,38 @@ body {
     border-style: groove;
     border-width: 16px;
     border-color: navy;
+    border-radius: 8px;
 }
 
 .form-group1 {
-    margin: 10px;
+    margin: 20px;
+    text-align: center;
+    border: navy;
     border-style: groove;
-    border-width: 8px;
-    border-color: red;
+    border-width: 16px;
+    border-radius: 8px;
+    align-content: center;
+    margin-left: 25%;
 }
 
 .form-control1 {
-    margin: 10px;
-    border-style: groove;
-    border-width: 4px;
-    border-color: blue;
+    height: 150px;
+    width: 350px;
 }
 
-.form-group2 {
-    margin: 10px;
-    border-style: groove;
-    border-width: 8px;
-    border-color: red;
-
-}
-
-.form-control2 {
-    margin: 10px;
-    border-style: groove;
-    border-width: 4px;
-    border-color: blue;
-
-}
-
-.card {
+.card-about,
+.card-contact {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: auto;
     margin-top: 16px;
     padding: 5px;
     border-style: groove;
     border-width: 20px;
     border-color: darkcyan;
-    float: left -100px;
-    clear: both;
+    border-radius: 8px;
+    align-content: center;
+    color: aliceblue;
+    background-color: darkslategrey;
 }
 
 footer {
@@ -66,30 +63,24 @@ footer {
     color: darkgray;
 }
 
-.emailadd {
-    margin: 4px;
+#comment-line {
+    font-size: 200%;
+    margin: 20px;
     border-style: groove;
     border-width: 4px;
     border-color: cyan;
+    border-radius: 8px;
     background-color: darkgrey;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 45%;
 }
 
-.comment {
-    margin: 4px;
-    border-style: groove;
-    border-width: 4px;
-    border-color: cyan;
-    background-color: darkgrey;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    position: relative;
-    top: -40px;
-    right: -7px;
-}
 
 .submitbutton1 {
     color: rgb(251, 255, 0);
-    position: relative;
-    right: -40px;
+    position: fixed;
+    margin: 4px;
+    text-align: center;
     background-color: dodgerblue;
+    left: 45%;
 }
