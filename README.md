@@ -9,5 +9,7 @@
 * Added styling to contact page
 * Used positioning to make things look somewhat clean
 * Styled the pages via borders and colors
-* Realized positioning is pretty broken looking on the phone so i used margin: auto
+* Added popover buttons for phone number and email address on contact page
+* Also added button with link to my Linked-In page
+* Added screenshots of past projects
 
